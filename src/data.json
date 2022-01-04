@@ -3,61 +3,61 @@
       {
         "name": "Harshit",
         "Email": "harshit@mail.com",
-        "balance": "1000",
+        "balance": 1000,
         "id": 1
       },
       {
         "name": "Vansh",
         "Email": "vansh@mail.com",
-        "balance": "1000",
+        "balance": 1000,
         "id": 2
       },
       {
         "name": "Aagman",
         "Email": "aagman@mail.com",
-        "balance": "1000",
+        "balance": 1000,
         "id": 3
       },
       {
         "name": "Hargun",
         "Email": "hargun@mail.com",
-        "balance": "1000",
+        "balance": 1000,
         "id": 4
       },
       {
         "name": "Assad",
         "Email": "assad@mail.com",
-        "balance": "1000",
+        "balance": 1000,
         "id": 5
       },
       {
         "name": "Divas",
         "Email": "divas@mail.com",
-        "balance": "1000",
+        "balance": 1000,
         "id": 6
       },
       {
         "name": "Samarth",
         "Email": "samarth@mail.com",
-        "balance": "1000",
+        "balance": 1000,
         "id": 7
       },
       {
         "name": "Navneet",
         "Email": "navneet@mail.com",
-        "balance": "1000",
+        "balance": 1000,
         "id": 8
       },
       {
         "name": "Saksham",
         "Email": "saksham@mail.com",
-        "balance": "1000",
+        "balance": 1000,
         "id": 9
       },
       {
         "name": "Sachet",
         "Email": "sachet@mail.com",
-        "balance": "1000",
+        "balance": 1000,
         "id": 10
       }
     ]

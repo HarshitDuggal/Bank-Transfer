@@ -1,9 +1,14 @@
 import React from 'react';
-
-const Transfer = () => {
+const Transfer = ({UserData,setUserData}) => {
+    const  buttonhandler = () => {
+        // setUserData(...UserData,UserData.Data[0].balance=UserData.Data[0].balance+500)
+        console.log(UserData)
+    }
     return (
         <div>
-            <h1>Transfer</h1>
+            <button onClick={buttonhandler}>
+                Transfer
+            </button>
         </div>
     );
 }
